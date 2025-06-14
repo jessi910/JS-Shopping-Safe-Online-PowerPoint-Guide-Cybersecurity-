@@ -1,2 +1,2 @@
 # shopping-safe-online-guide
-A beginner friendly guide to safe online shopping practices created as a cybersecurity awareness project.
+A beginner friendly guide to safe online shopping practices created as a cybersecurity awareness project.This presentation highlights practical strategies to help individuals protect their personal and financial information while shopping online. Topics covered include identifying secure websites, avoiding scams, using strong passwords, and understanding safe payment methods. Designed with non-technical users in mind, this guide aims to promote safe digital habits and reduce the risk of falling victim to online fraud. It serves as both an educational tool and a reminder of the importance of cybersecurity in everyday activities.
